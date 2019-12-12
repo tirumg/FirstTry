@@ -1,2 +1,2 @@
 # FirstTry
-Creating first repo
+Hi There.. I am just experimenting with GitHub 
